@@ -19,7 +19,7 @@ With 8+ years experience in public and private services, my expertise lies in tr
     style="height: 200px; min-width: 200px;"
   /> -->
   <img 
-    src="https://streak-stats.demolab.com/?user=arguto1993&theme=dark&hide_border=true&exclude_days=Sun%2CSat%22&alt=%22GitHub%20Streak%22"
+    src="https://arguto1993-github-streak.vercel.app//?user=arguto1993&theme=dark&hide_border=true&exclude_days=Sun%2CSat%22&alt=%22GitHub%20Streak%22"
     style="height: 200px; min-width: 210px;"
   />
 </div>
