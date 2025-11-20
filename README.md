@@ -24,6 +24,6 @@ With 8+ years experience in public and private services, my expertise lies in tr
   />
 </div>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=arguto1993&theme=dark&no-frame=true&no-bg=true&column=8)
+<!-- ![Trophies](https://github-profile-trophy.vercel.app/?username=arguto1993&theme=dark&no-frame=true&no-bg=true&column=8) -->
 
 
