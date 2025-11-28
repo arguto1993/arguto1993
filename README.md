@@ -3,10 +3,7 @@
 With 8+ years experience in public and private services, my expertise lies in transforming complex data into actionable insights and strategic recommendations. I leverage machine learning and BI tools to tackle real business challenges, particularly in digital marketing and customer loyalty. [**See my work here**](https://arguto.my.canva.site/)—this portfolio features 17 public projects showcasing my forte across multiple industries.
 
 ## [Let's collaborate!](https://arguto.my.canva.site/#contact)
-
-<div style="text-align:center; line-height:0; margin:0; padding:0;">
-  <img src="https://komarev.com/ghpvc/?username=arguto1993&color=blueviolet&style=flat" />
-</div>
+![](https://komarev.com/ghpvc/?username=arguto1993-since-29-nov-2025&style=flat-square&label=Profile+views+·+since+Nov+2025+)
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 8px; margin-top: 0;">
   <img
