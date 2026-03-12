@@ -1,8 +1,8 @@
-# Hi there 👋, Guto here. How can I help you?
+# Hi! 👋 I'm Guto. Nice to meet you. How can I help you?
 
-With 9+ years experience in public and private services, my expertise lies in transforming complex data into actionable insights and strategic recommendations. I leverage machine learning and BI tools to tackle real business challenges, particularly in digital marketing and customer loyalty. [**See my work here**](https://arguto.my.canva.site/)—this portfolio features 17 public projects showcasing my forte across multiple industries.
+I help organizations make smarter & faster data-driven decisions. As a Data Professional with 9+ years experience in public and private services, my works spans accross analytics, data engineering, and machine learning to tackle real business challenges.
 
-## [Let's collaborate!](https://arguto.my.canva.site/#contact)
+## [Kindly visit my portfolio website here!](http://arguto1993.github.io/)
 ![](https://komarev.com/ghpvc/?username=arguto1993-since-29-nov-2025&style=flat-square&label=Profile+views+·+since+Nov+2025+)
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 8px; margin-top: 0;">
