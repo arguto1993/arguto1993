@@ -22,5 +22,3 @@ I help organizations make smarter & faster data-driven decisions. As a Data Prof
 </div>
 
 <!-- ![Trophies](https://github-profile-trophy.vercel.app/?username=arguto1993&theme=dark&no-frame=true&no-bg=true&column=8) -->
-
-
